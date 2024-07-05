@@ -4,7 +4,7 @@
 
 <div id="name" align="center">
 
-**Я активно ищу работу** :raising_hand:
+**Я активно ищу работу** :raising_hand: [Резюме на hh](https://kaluga.hh.ru/resume/699f5bb5ff0b65633c0039ed1f4d5937503358)
 
 </div>
 

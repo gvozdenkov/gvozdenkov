@@ -90,7 +90,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/notion/notion-original.svg" title="Notion" alt="notion" width="40" height="40"/>
 </div>
 
-## Stats:
+## Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gvozdenkov&theme=dark&hide_border=true)<br/>
 

@@ -1,5 +1,5 @@
 <div id="name" align="center">
-  <h1>💫 Hi, I am Arty Gvozdenkov</h1>
+  <h1>💫 Привет, я Артём Гвозденков</h1>
 </div>
 
 <div id="name" align="center">

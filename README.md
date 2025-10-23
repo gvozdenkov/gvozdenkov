@@ -2,12 +2,6 @@
   <h1>💫 Привет, я Артём Гвозденков</h1>
 </div>
 
-<div id="name" align="center">
-
-**Я активно ищу работу** :raising_hand: [Резюме на hh](https://kaluga.hh.ru/resume/699f5bb5ff0b65633c0039ed1f4d5937503358)
-
-</div>
-
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=790b76111z76zt8faxakr8w9w1l56xorwczjnuu3juzr69hm&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
